@@ -6,4 +6,19 @@ The work includes
 - MATLAB simulations of Doppler radar signals   
 - Real-time implementation of signal processing.  
 - Use of radar sensors (Sense2GoL Pulse).
-  
+## Project Summary
+This repository contains MATLAB scripts and deliverables related to my Master’s thesis.  
+The project demonstrates Doppler radar signal processing through MATLAB simulations and analysis using radar sensor (Sense2GoL Pulse).  
+
+## Repository Structure
+- /matlab – MATLAB scripts for data extraction, frame storage, frame comparison, and speed estimation.  
+- /deliverables/ – Deliverables such as plots and processed data.   
+
+## Instructions
+### MATLAB (R2024b)
+1. Open the /matlab/ folder  
+2. Run 'extract_raw_data.m' to load radar raw data  
+3. Use 'framestorage.m' to Stores 10 radar frames and their corresponding signals for  analysis  
+4. 'framecomparison.m' for I/Q signals and FFTs frame analysis and comparison  
+5. Run 'Speed_Comparison.m' for Estimates and compare the  Doppler speed estimation  
+ 
