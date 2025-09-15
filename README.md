@@ -19,6 +19,6 @@ The project demonstrates Doppler radar signal processing through MATLAB simulati
 1. Open the /matlab/ folder  
 2. Run 'extract_raw_data.m' to load radar raw data  
 3. Use 'framestorage.m' to Stores 10 radar frames and their corresponding signals for  analysis  
-4. 'framecomparison.m' for I/Q signals and FFTs frame analysis and comparison  
+4. Run 'framecomparison.m' for I/Q signals and FFTs frame analysis and comparison  
 5. Run 'Speed_Comparison.m' for Estimates and compare the  Doppler speed estimation  
  
