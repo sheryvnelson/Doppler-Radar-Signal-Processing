@@ -1,12 +1,12 @@
 # Doppler-Radar-Signal-Processing
 Master's Thesis Project - Design of an Interactive Learning Module for Doppler Radar Signal Processing .(Halmstad University, Sweden)
-#Abstract 
+## Abstract 
 This thesis project presents the design of an interactive learning module for Doppler radar signal processing. 
 The work includes
 - MATLAB simulations of Doppler radar signals   
 - Real-time implementation of signal processing.  
-- Use of radar sensors (Sense2GoL Pulse).
-This repository contains MATLAB scripts and deliverables related to my Master’s thesis.  
+- Use of radar sensor (Sense2GoL Pulse).
+This repository contains MATLAB scripts and deliverables related to the Master’s thesis.  
  
 ## Repository Structure
 - /matlab – MATLAB scripts for data extraction, frame storage, frame comparison, and speed estimation.  
